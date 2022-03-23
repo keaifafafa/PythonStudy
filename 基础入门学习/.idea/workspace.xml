@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4942d393-9440-4d8c-98f4-0be0584985b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../J2EE/自学项目/ssmbuild/ssmbuild.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/GUI编程/计算器/Calculator/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/编译器入门使用熟悉/demo1/out/production/java练习/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/licai/licai-web/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/licai/licai-web/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/licai/licai-web/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/licai/licai-web/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaWeb/licai/licai-web/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../前端学习/基础学习/HTMLStudy/.idea/HTMLStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../前端学习/基础学习/HTMLStudy/HTMLStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../设计模式学习（Java）/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../设计模式学习（Java）/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../设计模式学习（Java）/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../设计模式学习（Java）/.idea/设计模式学习（Java）.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../J2EE/Micro_Service_Projects/Hospital/yygh_parent" beforeDir="false" afterPath="$PROJECT_DIR$/../../J2EE/Micro_Service_Projects/Hospital/yygh_parent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../J2EE/Micro_Service_Projects/Hospital/开发文档记录/统一异常处理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../J2EE/自学项目/Mybatis-Plus-Study/mptestdemo/target/classes/com/fafa/mptestdemo/controller/MpController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../前端学习/HTMLStudy/.idea/HTMLStudy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../前端学习/HTMLStudy/HTMLStudy.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/BaseDataTypeDemo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/MathFunctionDemo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/StringDemo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/StringDemo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/基础入门学习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/基础入门学习.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,21 +24,30 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_03_BaseDataType/String/work/CircleDemo01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/_02_BaseSyntax/BaseSyntaxDemo01.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="25vWAPqCKoEcVfqc7UFBACiFZkC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_02_BaseSyntax" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_03_BaseDataType/operation" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\operation" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\04" />
       <recent name="E:\编程学习\Python\基础入门学习\_02_BaseSyntax" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\Tuple" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\List" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\String" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -68,8 +62,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ProcessControlDemo01">
-    <configuration name="BaseDataTypeDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DecBin">
+    <configuration name="CircleDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/String/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/BaseDataTypeDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/String/work/CircleDemo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BaseDataTypeDemo02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DecBin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/operation/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\编程学习\Python\基础入门学习\_03_BaseDataType\StringDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/operation/work/DecBin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OperationDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/operation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/ListDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/operation/OperationDemo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ProcessControlDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringFormat01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_BaseSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_BaseSyntax/ProcessControlDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/String/StringFormat01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TupleDemo01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringWork01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/String/work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/TupleDemo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/String/work/StringWork01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ProcessControlDemo01" />
-        <item itemvalue="Python.TupleDemo01" />
-        <item itemvalue="Python.ListDemo01" />
-        <item itemvalue="Python.BaseDataTypeDemo02" />
-        <item itemvalue="Python.BaseDataTypeDemo01" />
+        <item itemvalue="Python.DecBin" />
+        <item itemvalue="Python.CircleDemo01" />
+        <item itemvalue="Python.StringWork01" />
+        <item itemvalue="Python.OperationDemo01" />
+        <item itemvalue="Python.StringFormat01" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +196,10 @@
       <workItem from="1646407912451" duration="2070000" />
       <workItem from="1646493471177" duration="4296000" />
       <workItem from="1646798761586" duration="263000" />
+      <workItem from="1647326163561" duration="5827000" />
+      <workItem from="1647562668422" duration="7249000" />
+      <workItem from="1647942854485" duration="2639000" />
+      <workItem from="1648006441751" duration="156000" />
     </task>
     <servers />
   </component>
@@ -224,17 +222,26 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$TupleDemo01.coverage" NAME="TupleDemo01 Coverage Results" MODIFIED="1646497626074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
     <SUITE FILE_PATH="coverage/$BaseSyntaxDemo01.coverage" NAME="BaseSyntaxDemo01 Coverage Results" MODIFIED="1646409572844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
-    <SUITE FILE_PATH="coverage/$ListDemo01.coverage" NAME="ListDemo01 Coverage Results" MODIFIED="1646497620844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
-    <SUITE FILE_PATH="coverage/$BaseDataTypeDemo01.coverage" NAME="BaseDataTypeDemo01 Coverage Results" MODIFIED="1646494146146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$CircleDemo01.coverage" NAME="CircleDemo01 Coverage Results" MODIFIED="1647577818675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
     <SUITE FILE_PATH="coverage/$inputDemo01__1_.coverage" NAME="inputDemo01 (1) Coverage Results" MODIFIED="1646408320825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
     <SUITE FILE_PATH="coverage/$ProcessControlDemo01.coverage" NAME="ProcessControlDemo01 Coverage Results" MODIFIED="1646798864026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
+    <SUITE FILE_PATH="coverage/$DecBin.coverage" NAME="DecBin Coverage Results" MODIFIED="1648006529455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/operation/work" />
+    <SUITE FILE_PATH="coverage/$OperationDemo01.coverage" NAME="OperationDemo01 Coverage Results" MODIFIED="1647569041115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/operation" />
+    <SUITE FILE_PATH="coverage/$StringWork01.coverage" NAME="StringWork01 Coverage Results" MODIFIED="1647576789197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
+    <SUITE FILE_PATH="coverage/$BaseDataTypeDemo02.coverage" NAME="BaseDataTypeDemo02 Coverage Results" MODIFIED="1646495257702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$ListDemo01.coverage" NAME="ListDemo01 Coverage Results" MODIFIED="1646497620844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$StringDemo05.coverage" NAME="StringDemo05 Coverage Results" MODIFIED="1647331667272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
+    <SUITE FILE_PATH="coverage/$Terst01.coverage" NAME="Terst01 Coverage Results" MODIFIED="1647330399373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$BaseDataTypeDemo01.coverage" NAME="BaseDataTypeDemo01 Coverage Results" MODIFIED="1646494146146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$StringDemo04.coverage" NAME="StringDemo04 Coverage Results" MODIFIED="1647330819642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
     <SUITE FILE_PATH="coverage/$BaseSyntaxDemo02.coverage" NAME="BaseSyntaxDemo02 Coverage Results" MODIFIED="1646409709093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
     <SUITE FILE_PATH="coverage/$inputDemo01.coverage" NAME="inputDemo01 Coverage Results" MODIFIED="1646408392045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
-    <SUITE FILE_PATH="coverage/$BaseDataTypeDemo02.coverage" NAME="BaseDataTypeDemo02 Coverage Results" MODIFIED="1646495257702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$StringFormat01.coverage" NAME="StringFormat01 Coverage Results" MODIFIED="1647567083523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
   </component>
 </project>
