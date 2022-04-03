@@ -4,7 +4,7 @@
 
 元组中的元素类型也可以不相同：
 """
-tuple = ('abcd', 786, 2.23, 'runoob', 70.2)
+tuple = ('abcd', 786, 2.23, 'runoob', 70.2, (1, 2))
 tinytuple = (123, 'runoob')
 print(tuple)  # 输出完整元组
 print(tuple[0])  # 输出元组的第一个元素
