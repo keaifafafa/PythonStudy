@@ -5,7 +5,7 @@ print(my_dict1)
 
 # 创建方式二 注意一定是要双值子序列
 # 要注意dict函数只能传入一个参数，所以需要第二个()来包裹最里面的三个()
-my_dict2 = dict((('name', '丁佳杰'), ('age', 20), ('hobby', 'sing')))
+my_dict2 = dict([('name', '丁佳杰'), ('age', 20), ('hobby', 'sing')])
 print(my_dict2)
 
 # 创建方式三 使用函数创建

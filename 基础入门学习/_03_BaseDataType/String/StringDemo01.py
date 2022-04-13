@@ -3,15 +3,15 @@
 Python3 中有六个标准的数据类型：
 
 Number（数字）
-String（字符串）
-List（列表）
-Tuple（元组）
+string（字符串）
+list（列表）
+tuple（元组）
 Set（集合）
 Dictionary（字典）
 Python3 的六个标准数据类型中：
 
-不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；
-可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。
+不可变数据（3 个）：Number（数字）、string（字符串）、tuple（元组）；
+可变数据（3 个）：list（列表）、Dictionary（字典）、Set（集合）。
 
 """
 
@@ -25,7 +25,7 @@ print(type(a), type(b), type(c), type(d))
 a = 111
 print(isinstance(a, int))
 print("------------------")
-# 2、String（字符串）
+# 2、string（字符串）
 # 语法：变量[头下标:尾下标]
 # 索引值以 0 为开始值，-1 为从末尾的开始位置。
 string = "KeAiFa"

@@ -1,4 +1,4 @@
-# 字符串(String)
+# 字符串(string)
 string = '123456789'
 
 print(string)  # 输出字符串
