@@ -38,18 +38,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\compositive_work" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\Tuple" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\List" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\String" />
+      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\Tuple" />
       <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\List" />
       <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\operation" />
       <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\04" />
       <recent name="E:\编程学习\Python\基础入门学习\_02_BaseSyntax" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\Tuple" />
-      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\List" />
-      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType\String" />
-      <recent name="E:\编程学习\Python\PythonStudy\基础入门学习\_03_BaseDataType" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.frozen_set (1)">
-    <configuration name="dict_address_book01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.work02">
+    <configuration name="work01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/dictionary/work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/dictionary/work/dict_address_book01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/compositive_work/work01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_work01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="work02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,78 +96,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/dictionary/work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/dictionary/work/dict_work01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="frozen_set (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="基础入门学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/set/frozen_set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/set/frozen_set/frozen_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="frozen_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="基础入门学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/set/final_set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/set/final_set/frozen_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="var_set01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="基础入门学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_BaseDataType/set/var_set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/set/var_set/var_set01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_BaseDataType/compositive_work/work02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +112,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.frozen_set (1)" />
-        <item itemvalue="Python.frozen_set" />
-        <item itemvalue="Python.var_set01" />
-        <item itemvalue="Python.dict_address_book01" />
-        <item itemvalue="Python.dict_work01" />
+        <item itemvalue="Python.work02" />
+        <item itemvalue="Python.work01" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +144,9 @@
       <workItem from="1649376917703" duration="4844000" />
       <workItem from="1649564545561" duration="2234000" />
       <workItem from="1649744567730" duration="6259000" />
+      <workItem from="1649981946001" duration="7071000" />
+      <workItem from="1650026388951" duration="2564000" />
+      <workItem from="1650029651190" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -244,15 +179,17 @@
     <SUITE FILE_PATH="coverage/$CircleDemo01.coverage" NAME="CircleDemo01 Coverage Results" MODIFIED="1647577818675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
     <SUITE FILE_PATH="coverage/$var_set01.coverage" NAME="var_set01 Coverage Results" MODIFIED="1649750068395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/var_set" />
     <SUITE FILE_PATH="coverage/$ProcessControlDemo01.coverage" NAME="ProcessControlDemo01 Coverage Results" MODIFIED="1646798864026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
-    <SUITE FILE_PATH="coverage/$work01.coverage" NAME="work01 Coverage Results" MODIFIED="1648777577767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List/work" />
+    <SUITE FILE_PATH="coverage/$work01.coverage" NAME="work01 Coverage Results" MODIFIED="1650030112138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
+    <SUITE FILE_PATH="coverage/$work02__1_.coverage" NAME="work02 (1) Coverage Results" MODIFIED="1650029560290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
     <SUITE FILE_PATH="coverage/$DecBin.coverage" NAME="DecBin Coverage Results" MODIFIED="1648134254833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/operation/work" />
     <SUITE FILE_PATH="coverage/$dict_crud02.coverage" NAME="dict_crud02 Coverage Results" MODIFIED="1649379402897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
+    <SUITE FILE_PATH="coverage/$var_set02.coverage" NAME="var_set02 Coverage Results" MODIFIED="1649984933341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/var_set" />
     <SUITE FILE_PATH="coverage/$OperationDemo01.coverage" NAME="OperationDemo01 Coverage Results" MODIFIED="1647569041115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/operation" />
     <SUITE FILE_PATH="coverage/$StringWork01.coverage" NAME="StringWork01 Coverage Results" MODIFIED="1647576789197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
     <SUITE FILE_PATH="coverage/$BaseDataTypeDemo02.coverage" NAME="BaseDataTypeDemo02 Coverage Results" MODIFIED="1646495257702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
     <SUITE FILE_PATH="coverage/$list02.coverage" NAME="list02 Coverage Results" MODIFIED="1648180043406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
     <SUITE FILE_PATH="coverage/$StringDemo05.coverage" NAME="StringDemo05 Coverage Results" MODIFIED="1647331667272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
-    <SUITE FILE_PATH="coverage/$frozen_set__1_.coverage" NAME="frozen_set (1) Coverage Results" MODIFIED="1649750226321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/frozen_set" />
+    <SUITE FILE_PATH="coverage/$frozen_set__1_.coverage" NAME="frozen_set (1) Coverage Results" MODIFIED="1649982246416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/frozen_set" />
     <SUITE FILE_PATH="coverage/$tuple_create02.coverage" NAME="tuple_create02 Coverage Results" MODIFIED="1648778787336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple" />
     <SUITE FILE_PATH="coverage/$tuple01.coverage" NAME="tuple01 Coverage Results" MODIFIED="1648890739320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple" />
     <SUITE FILE_PATH="coverage/$dict_crud03.coverage" NAME="dict_crud03 Coverage Results" MODIFIED="1649382950924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
@@ -261,6 +198,7 @@
     <SUITE FILE_PATH="coverage/$frozen_set.coverage" NAME="frozen_set Coverage Results" MODIFIED="1649750194923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/final_set" />
     <SUITE FILE_PATH="coverage/$inputDemo01.coverage" NAME="inputDemo01 Coverage Results" MODIFIED="1646408392045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
     <SUITE FILE_PATH="coverage/$StringFormat01.coverage" NAME="StringFormat01 Coverage Results" MODIFIED="1647567083523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
+    <SUITE FILE_PATH="coverage/$work02.coverage" NAME="work02 Coverage Results" MODIFIED="1650030157987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
     <SUITE FILE_PATH="coverage/$review_list02.coverage" NAME="review_list02 Coverage Results" MODIFIED="1648548159212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
     <SUITE FILE_PATH="coverage/$dict_crud01.coverage" NAME="dict_crud01 Coverage Results" MODIFIED="1649379072122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
     <SUITE FILE_PATH="coverage/$inputDemo01__1_.coverage" NAME="inputDemo01 (1) Coverage Results" MODIFIED="1646408320825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
