@@ -65,29 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.double_for_demo">
-    <configuration name="bubble_sort01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="基础入门学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_process_control/circulation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_process_control/circulation/bubble_sort01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.work01">
     <configuration name="double_for_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +80,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_process_control/circulation/double_for_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guess_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="基础入门学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_process_control/circulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_process_control/circulation/guess_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prime_numbers_factors01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="基础入门学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_process_control/circulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_process_control/circulation/prime_numbers_factors01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +154,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="work01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="基础入门学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_process_control/circulation/work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_process_control/circulation/work/work01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.work01" />
+        <item itemvalue="Python.guess_num" />
+        <item itemvalue="Python.prime_numbers_factors01" />
         <item itemvalue="Python.double_for_demo" />
         <item itemvalue="Python.small_nine_nine" />
-        <item itemvalue="Python.bubble_sort01" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +220,7 @@
       <workItem from="1650687242324" duration="49000" />
       <workItem from="1650954224176" duration="6626000" />
       <workItem from="1650965548890" duration="1187000" />
+      <workItem from="1651192399186" duration="3914000" />
     </task>
     <servers />
   </component>
@@ -203,19 +250,32 @@
     <SUITE FILE_PATH="coverage/$GetBirthday.coverage" NAME="GetBirthday Coverage Results" MODIFIED="1648217693032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
     <SUITE FILE_PATH="coverage/$TupleDemo01.coverage" NAME="TupleDemo01 Coverage Results" MODIFIED="1648778688364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple" />
     <SUITE FILE_PATH="coverage/$BaseSyntaxDemo01.coverage" NAME="BaseSyntaxDemo01 Coverage Results" MODIFIED="1646409572844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
-    <SUITE FILE_PATH="coverage/$CircleDemo01.coverage" NAME="CircleDemo01 Coverage Results" MODIFIED="1647577818675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
     <SUITE FILE_PATH="coverage/$var_set01.coverage" NAME="var_set01 Coverage Results" MODIFIED="1649750068395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/var_set" />
-    <SUITE FILE_PATH="coverage/$ProcessControlDemo01.coverage" NAME="ProcessControlDemo01 Coverage Results" MODIFIED="1646798864026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
-    <SUITE FILE_PATH="coverage/$work01.coverage" NAME="work01 Coverage Results" MODIFIED="1650030112138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
-    <SUITE FILE_PATH="coverage/$work02__1_.coverage" NAME="work02 (1) Coverage Results" MODIFIED="1650029560290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
+    <SUITE FILE_PATH="coverage/$work01.coverage" NAME="work01 Coverage Results" MODIFIED="1651198179791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation/work" />
     <SUITE FILE_PATH="coverage/$DecBin.coverage" NAME="DecBin Coverage Results" MODIFIED="1648134254833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/operation/work" />
     <SUITE FILE_PATH="coverage/$dict_crud02.coverage" NAME="dict_crud02 Coverage Results" MODIFIED="1649379402897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
-    <SUITE FILE_PATH="coverage/$var_set02.coverage" NAME="var_set02 Coverage Results" MODIFIED="1649984933341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/var_set" />
     <SUITE FILE_PATH="coverage/$work01__1_.coverage" NAME="work01 (1) Coverage Results" MODIFIED="1650358254178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/branch/work" />
     <SUITE FILE_PATH="coverage/$OperationDemo01.coverage" NAME="OperationDemo01 Coverage Results" MODIFIED="1647569041115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/operation" />
+    <SUITE FILE_PATH="coverage/$list02.coverage" NAME="list02 Coverage Results" MODIFIED="1648180043406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
+    <SUITE FILE_PATH="coverage/$frozen_set.coverage" NAME="frozen_set Coverage Results" MODIFIED="1649750194923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/final_set" />
+    <SUITE FILE_PATH="coverage/$inputDemo01.coverage" NAME="inputDemo01 Coverage Results" MODIFIED="1646408392045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
+    <SUITE FILE_PATH="coverage/$StringFormat01.coverage" NAME="StringFormat01 Coverage Results" MODIFIED="1647567083523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
+    <SUITE FILE_PATH="coverage/$work02.coverage" NAME="work02 Coverage Results" MODIFIED="1650030157987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
+    <SUITE FILE_PATH="coverage/$bubble_sort01__1_.coverage" NAME="bubble_sort01 (1) Coverage Results" MODIFIED="1650958952726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
+    <SUITE FILE_PATH="coverage/$inputDemo01__1_.coverage" NAME="inputDemo01 (1) Coverage Results" MODIFIED="1646408320825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
+    <SUITE FILE_PATH="coverage/$guess_num.coverage" NAME="guess_num Coverage Results" MODIFIED="1651198156661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
+    <SUITE FILE_PATH="coverage/$dict01.coverage" NAME="dict01 Coverage Results" MODIFIED="1649145071168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
+    <SUITE FILE_PATH="coverage/$dict_work01.coverage" NAME="dict_work01 Coverage Results" MODIFIED="1649566022628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary/work" />
+    <SUITE FILE_PATH="coverage/$copy_list.coverage" NAME="copy_list Coverage Results" MODIFIED="1648774266872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
+    <SUITE FILE_PATH="coverage/$BaseDataTypeDemo01.coverage" NAME="BaseDataTypeDemo01 Coverage Results" MODIFIED="1646494146146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$StringDemo04.coverage" NAME="StringDemo04 Coverage Results" MODIFIED="1647330819642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$double_for_demo.coverage" NAME="double_for_demo Coverage Results" MODIFIED="1650965970496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
+    <SUITE FILE_PATH="coverage/$CircleDemo01.coverage" NAME="CircleDemo01 Coverage Results" MODIFIED="1647577818675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
+    <SUITE FILE_PATH="coverage/$ProcessControlDemo01.coverage" NAME="ProcessControlDemo01 Coverage Results" MODIFIED="1646798864026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
+    <SUITE FILE_PATH="coverage/$work02__1_.coverage" NAME="work02 (1) Coverage Results" MODIFIED="1650029560290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
+    <SUITE FILE_PATH="coverage/$var_set02.coverage" NAME="var_set02 Coverage Results" MODIFIED="1649984933341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/var_set" />
     <SUITE FILE_PATH="coverage/$StringWork01.coverage" NAME="StringWork01 Coverage Results" MODIFIED="1647576789197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
     <SUITE FILE_PATH="coverage/$BaseDataTypeDemo02.coverage" NAME="BaseDataTypeDemo02 Coverage Results" MODIFIED="1646495257702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
-    <SUITE FILE_PATH="coverage/$list02.coverage" NAME="list02 Coverage Results" MODIFIED="1648180043406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
     <SUITE FILE_PATH="coverage/$StringDemo05.coverage" NAME="StringDemo05 Coverage Results" MODIFIED="1647331667272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
     <SUITE FILE_PATH="coverage/$frozen_set__1_.coverage" NAME="frozen_set (1) Coverage Results" MODIFIED="1649982246416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/frozen_set" />
     <SUITE FILE_PATH="coverage/$tuple_create02.coverage" NAME="tuple_create02 Coverage Results" MODIFIED="1648778787336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple" />
@@ -224,28 +284,17 @@
     <SUITE FILE_PATH="coverage/$dict_crud03.coverage" NAME="dict_crud03 Coverage Results" MODIFIED="1649382950924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
     <SUITE FILE_PATH="coverage/$BaseSyntaxDemo02.coverage" NAME="BaseSyntaxDemo02 Coverage Results" MODIFIED="1646409709093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
     <SUITE FILE_PATH="coverage/$sort_list.coverage" NAME="sort_list Coverage Results" MODIFIED="1648777800283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
-    <SUITE FILE_PATH="coverage/$frozen_set.coverage" NAME="frozen_set Coverage Results" MODIFIED="1649750194923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/set/final_set" />
-    <SUITE FILE_PATH="coverage/$inputDemo01.coverage" NAME="inputDemo01 Coverage Results" MODIFIED="1646408392045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
-    <SUITE FILE_PATH="coverage/$StringFormat01.coverage" NAME="StringFormat01 Coverage Results" MODIFIED="1647567083523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String" />
     <SUITE FILE_PATH="coverage/$small_nine_nine.coverage" NAME="small_nine_nine Coverage Results" MODIFIED="1650959896097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
-    <SUITE FILE_PATH="coverage/$work02.coverage" NAME="work02 Coverage Results" MODIFIED="1650030157987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
-    <SUITE FILE_PATH="coverage/$bubble_sort01__1_.coverage" NAME="bubble_sort01 (1) Coverage Results" MODIFIED="1650958952726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
     <SUITE FILE_PATH="coverage/$review_list02.coverage" NAME="review_list02 Coverage Results" MODIFIED="1648548159212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
     <SUITE FILE_PATH="coverage/$for_demo03.coverage" NAME="for_demo03 Coverage Results" MODIFIED="1650957469060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
     <SUITE FILE_PATH="coverage/$dict_crud01.coverage" NAME="dict_crud01 Coverage Results" MODIFIED="1649379072122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
     <SUITE FILE_PATH="coverage/$bubble_sort01.coverage" NAME="bubble_sort01 Coverage Results" MODIFIED="1650959067383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
-    <SUITE FILE_PATH="coverage/$inputDemo01__1_.coverage" NAME="inputDemo01 (1) Coverage Results" MODIFIED="1646408320825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_01_InOut" />
     <SUITE FILE_PATH="coverage/$find_list.coverage" NAME="find_list Coverage Results" MODIFIED="1648777361881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
+    <SUITE FILE_PATH="coverage/$prime_numbers_factors01.coverage" NAME="prime_numbers_factors01 Coverage Results" MODIFIED="1651198126223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
     <SUITE FILE_PATH="coverage/$menu.coverage" NAME="menu Coverage Results" MODIFIED="1649141780683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple/work" />
-    <SUITE FILE_PATH="coverage/$dict01.coverage" NAME="dict01 Coverage Results" MODIFIED="1649145071168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary" />
     <SUITE FILE_PATH="coverage/$ListDemo01.coverage" NAME="ListDemo01 Coverage Results" MODIFIED="1646497620844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
-    <SUITE FILE_PATH="coverage/$dict_work01.coverage" NAME="dict_work01 Coverage Results" MODIFIED="1649566022628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary/work" />
     <SUITE FILE_PATH="coverage/$Terst01.coverage" NAME="Terst01 Coverage Results" MODIFIED="1647330399373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
-    <SUITE FILE_PATH="coverage/$copy_list.coverage" NAME="copy_list Coverage Results" MODIFIED="1648774266872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/List" />
     <SUITE FILE_PATH="coverage/$dict_address_book01.coverage" NAME="dict_address_book01 Coverage Results" MODIFIED="1649749606902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary/work" />
-    <SUITE FILE_PATH="coverage/$BaseDataTypeDemo01.coverage" NAME="BaseDataTypeDemo01 Coverage Results" MODIFIED="1646494146146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
-    <SUITE FILE_PATH="coverage/$StringDemo04.coverage" NAME="StringDemo04 Coverage Results" MODIFIED="1647330819642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
-    <SUITE FILE_PATH="coverage/$double_for_demo.coverage" NAME="double_for_demo Coverage Results" MODIFIED="1650965970496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
     <SUITE FILE_PATH="coverage/$tuple_create01.coverage" NAME="tuple_create01 Coverage Results" MODIFIED="1648778777981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple" />
   </component>
 </project>
