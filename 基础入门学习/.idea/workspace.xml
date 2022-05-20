@@ -35,7 +35,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/GitRepository/Github/Python/TankWar" />
+    <property name="last_opened_file_path" value="E:/GitRepository/Github/Python/小游戏/Puzzle_Game" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +66,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.param_scope">
+  <component name="RunManager" selected="Python.anonymous_func">
+    <configuration name="anonymous_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="基础入门学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_05_function/anonymous_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cal01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guess_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cal_variance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="基础入门学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +119,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_process_control/circulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_process_control/circulation/guess_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_05_function/cal_variance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="func_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="基础入门学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05_function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_05_function/func_lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,57 +177,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salary01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="基础入门学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_05_function/salary01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="var_param" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="基础入门学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05_function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_05_function/var_param.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.anonymous_func" />
+        <item itemvalue="Python.func_lambda" />
+        <item itemvalue="Python.cal_variance" />
         <item itemvalue="Python.param_scope" />
         <item itemvalue="Python.cal01" />
-        <item itemvalue="Python.var_param" />
-        <item itemvalue="Python.salary01" />
-        <item itemvalue="Python.guess_num" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,9 @@
       <workItem from="1651925971317" duration="34000" />
       <workItem from="1652109888664" duration="155000" />
       <workItem from="1652509153621" duration="2268000" />
-      <workItem from="1652772031542" duration="2456000" />
+      <workItem from="1652772031542" duration="2627000" />
+      <workItem from="1652946904655" duration="793000" />
+      <workItem from="1653005654368" duration="5015000" />
     </task>
     <servers />
   </component>
@@ -283,6 +285,8 @@
     <SUITE FILE_PATH="coverage/$BaseDataTypeDemo01.coverage" NAME="BaseDataTypeDemo01 Coverage Results" MODIFIED="1646494146146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
     <SUITE FILE_PATH="coverage/$StringDemo04.coverage" NAME="StringDemo04 Coverage Results" MODIFIED="1647330819642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
     <SUITE FILE_PATH="coverage/$double_for_demo.coverage" NAME="double_for_demo Coverage Results" MODIFIED="1650965970496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
+    <SUITE FILE_PATH="coverage/$anonymous_func.coverage" NAME="anonymous_func Coverage Results" MODIFIED="1653011735292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05_function" />
+    <SUITE FILE_PATH="coverage/$cal_variance.coverage" NAME="cal_variance Coverage Results" MODIFIED="1653009070930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05_function" />
     <SUITE FILE_PATH="coverage/$CircleDemo01.coverage" NAME="CircleDemo01 Coverage Results" MODIFIED="1647577818675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/String/work" />
     <SUITE FILE_PATH="coverage/$ProcessControlDemo01.coverage" NAME="ProcessControlDemo01 Coverage Results" MODIFIED="1646798864026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_02_BaseSyntax" />
     <SUITE FILE_PATH="coverage/$work02__1_.coverage" NAME="work02 (1) Coverage Results" MODIFIED="1650029560290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/compositive_work" />
@@ -311,6 +315,7 @@
     <SUITE FILE_PATH="coverage/$menu.coverage" NAME="menu Coverage Results" MODIFIED="1649141780683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple/work" />
     <SUITE FILE_PATH="coverage/$ListDemo01.coverage" NAME="ListDemo01 Coverage Results" MODIFIED="1646497620844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
     <SUITE FILE_PATH="coverage/$Terst01.coverage" NAME="Terst01 Coverage Results" MODIFIED="1647330399373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType" />
+    <SUITE FILE_PATH="coverage/$func_lambda.coverage" NAME="func_lambda Coverage Results" MODIFIED="1653010278400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05_function" />
     <SUITE FILE_PATH="coverage/$dict_address_book01.coverage" NAME="dict_address_book01 Coverage Results" MODIFIED="1649749606902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/dictionary/work" />
     <SUITE FILE_PATH="coverage/$parallelogram.coverage" NAME="parallelogram Coverage Results" MODIFIED="1651282526914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_04_process_control/circulation" />
     <SUITE FILE_PATH="coverage/$tuple_create01.coverage" NAME="tuple_create01 Coverage Results" MODIFIED="1648778777981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_03_BaseDataType/Tuple" />
